@@ -1,0 +1,24 @@
+.feher{
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+    height: 150px;
+    padding: none;
+    margin: none;
+}
+.piros
+{
+    background-color: red;
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+    height: 150px;
+    padding: none;
+    margin: none;
+}
+body{
+    border: none;
+    padding: none;
+    margin-top: 210px;
+}
