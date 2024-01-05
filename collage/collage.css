@@ -1,0 +1,11 @@
+table{
+    width: 1250px;
+    border: 1px solid black;
+}
+#omori{
+    width: 150px;
+}
+tr, th{
+    width: 125px;
+    height: 125px;
+}
