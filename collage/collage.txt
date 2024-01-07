@@ -1,7 +1,0 @@
-2x2 omori
-1x1 deltarune
-1x2 celeste (y axis: 2)
-1x2 detstiny (y axis: 2)
-2x2 lethal
-1x1 warframe
-middle 1x1 vmi text
