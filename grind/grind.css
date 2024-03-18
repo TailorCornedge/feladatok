@@ -87,3 +87,19 @@ p {
     height: 50%;
     width: 50%;
 }
+.left{
+    float: left;
+}
+
+.rcorners{
+    border-radius: 25px;
+    padding: 20px; 
+    height: 405px;
+    width: 705px;
+  }
+  .text{
+      color: white;
+      font-size: large;
+      margin-top: 100px;
+      margin-bottom: 190px
+  }
